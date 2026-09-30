@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-WR8JDJBR.js","assets/dist-GLSJf35g.js"])))=>i.map(i=>d[i]);
+import{x as e}from"./index-B8cGb2MP.js";import{registerPlugin as t}from"./dist-GLSJf35g.js";var n=t(`Share`,{web:()=>e(()=>import(`./web-WR8JDJBR.js`).then(e=>new e.ShareWeb),__vite__mapDeps([0,1]))});export{n as Share};
